@@ -1,4 +1,5 @@
-### Hi, i'm Allan and welcome to my Profile!
+### Welcome to my Profile!
+💻 Hi, I'm Allan and I'm passionate about information technology. I've been playing with computers and puzzle video games since i was a kid .
 
 <!--
 **Ollem2000/ollem2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
