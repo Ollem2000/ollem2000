@@ -1,6 +1,7 @@
 ### Welcome to my Profile!
-💻 Hi, I'm Allan and I'm passionate about information technology. I've been playing with computers and puzzle video games since i was a kid.
-📚 In my high school, i studied in a technical class and now i’m attending the college of system analysis and development.
+💻 Hi, I'm Allan and I'm passionate about information technology. I've been playing with computers and puzzle video games since i was a kid.<br/>
+📚 In my high school, i studied in a technical class and now i’m attending the college of system analysis and development.<br/>
+🔭 My focus is on learning more programming langs and tools to achieve my personal projects and goals.
 
 <!--🔭 My focus are in learning more programming langs and tools to 
 **Ollem2000/ollem2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
